@@ -1,5 +1,6 @@
-# vizitka-2023
+# repozitář vizitka 
 
-Šablona projektu pro cvičení práce s Gitem.
+První repozitář v Githubu
 
-Postupujte podle zadání [cvičení Vizitka](https://kodim.cz/kurzy/daweb/zaklady-gitu/uvod-do-gitu/cviceni-vizitka).
+Výsledkem je [moje stránka](https://coplovemaker.github.io/Vizitka/)
+![obrazek](stažený soubor.jpg)
